@@ -2,7 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 import { Button, Box, Text, Heading } from "@chakra-ui/core";
 
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import SEO from "../components/seo";
 
 const IndexPage: React.FC<{}> = () => (
